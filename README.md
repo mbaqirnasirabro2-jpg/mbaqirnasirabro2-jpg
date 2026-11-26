@@ -2,8 +2,7 @@
 
 **Aspiring Data Scientist (Analytics & Data Engineering) | Electrical & Solar Systems Engineer**
 
-I combine practical engineering discipline—power distribution, industrial automation, and solar PV system design—with structured data science workflows in Python, SQL, Power BI, and gradient boosting. I enjoy breaking down messy, real-world problems bottom-up, validating assumptions rigorously, and building clear, reproducible solutions.
-
+I build reproducible data science, analytics, and machine learning solutions using Python, SQL, Power BI, and gradient boosting, backed by practical engineering experience in power distribution, industrial automation, and solar PV systems. I enjoy breaking down complex problems bottom-up and validating assumptions rigorously.
 ---
 
 ### Featured Portfolio Project
