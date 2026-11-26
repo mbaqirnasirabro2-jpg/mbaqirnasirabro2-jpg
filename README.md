@@ -15,7 +15,7 @@ I combine practical engineering discipline—power distribution, industrial auto
 
 ---
 
-### 🛠️ Core Toolkit
+### Core Toolkit
 
 * **Data Science & ML:** Python, Pandas, NumPy, Scikit-Learn, LightGBM, XGBoost, Probability Calibration, Threshold Optimization
 * **Data & BI:** SQL Server (Joins, CTEs, Window Functions), Power BI Desktop, Data Visualization
@@ -23,9 +23,26 @@ I combine practical engineering discipline—power distribution, industrial auto
 
 ---
 
-### 🌱 What I'm Exploring Next
+### What I'm Exploring Next
 * Refining high-recall clinical screening and precision-recall trade-offs on imbalanced datasets.
 * Combining SQL querying, Power BI dashboards, and ML pipelines for practical decision support.
 * Sharing concise engineering and data science notes on LinkedIn and GitHub.
 
-📫 **Connect with me:** [GitHub Profile](https://github.com/mbaqirnasirabro2-jpg)
+ **Connect with me:** [GitHub Profile](https://github.com/mbaqirnasirabro2-jpg)
+
+---
+
+### Featured Project
+
+#### **Clinical Health Risk Prediction (`clinical-health-risk-prediction-ml`)**
+* **Problem & Setup:** Imbalanced clinical risk screening (~1.94% positive prevalence) evaluated with 5-fold Stratified Out-of-Fold (OOF) validation.
+* **Key Results:** Baseline (14 features) achieved `0.8092` ROC-AUC, `0.1247` PR-AUC, and `0.0851` LogLoss; Sigmoid probability calibration achieved `0.0869` LogLoss, `0.0186` Brier score, and `0.8824` recall at a `0.01` screening threshold.
+* **Links:** [Repository](https://github.com/mbaqirnasirabro2-jpg/clinical-health-risk-prediction-ml) • [Experiments Wiki](https://github.com/mbaqirnasirabro2-jpg/clinical-health-risk-prediction-ml/wiki/Experiments)
+
+---
+
+### How I Approach Problems
+* Breaking complex systems down bottom-up—whether designing power/solar systems or building data pipelines and ML models.
+* Prioritizing validation discipline, calibration, and clear documentation over guesswork.
+
+📫 **GitHub:** [github.com/mbaqirnasirabro2-jpg](https://github.com/mbaqirnasirabro2-jpg)
